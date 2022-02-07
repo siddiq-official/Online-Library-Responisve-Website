@@ -1,0 +1,163 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/*==NavBar Section==*/
+.container{
+    margin-bottom: 100px;
+}
+.bg-color{
+    background-color: #f0fff0;
+}
+.logo{
+    width: 200px;
+    height: 75px;
+}
+.navbar .nav-link{
+    margin: 0 10px;
+    color: black;
+}
+.sign-in{
+    background-color: #21b573;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+    border: none;
+}
+
+/*==Learning Section==*/
+
+h1{
+    font-weight: 700;
+}
+.ready{
+    color: #fd511a;
+}
+span{
+    color: #21b573;
+}
+.get-button{
+    background-color: #21b573;
+    color: white;
+    border: none;
+    padding: 5px 30px;
+    border-radius: 30px;
+
+}
+.learn img{
+    width: 80%;
+    height: auto;
+    display: block;
+}
+.row{
+    padding-bottom: 50px;
+}
+
+/*==Topic Section==*/
+.bg-color{
+    background-color: #f0fff0;
+    border: none;
+}
+.topic img{
+    width: 70px;
+    height: 70px;
+    display: block;
+    margin: 30px auto;  
+}
+.title{
+    text-align: center;
+    color: #413960;
+}
+.text{
+    text-align: center;
+    color: #585859;
+}
+
+/*==Online Courses Section==*/
+
+h2{
+    text-align: center;
+    font-weight: 600;
+    color: #413960;
+    margin-bottom: 50px;
+}
+.card{
+    border-radius: 15px;
+}
+.course img{
+    padding: 20px;
+}
+.card-title{
+    color: #413960;
+    font-weight: 600;
+}
+.card-text{
+    color: #585859;
+}
+.buy-button{
+    background-color: #21b573;
+    color: white;
+    border: none;
+    padding: 5px 30px;
+    border-radius: 30px;
+    display: block;
+    
+}
+.cal-peo{
+    padding-top: 30px;
+}  
+
+/*==Testimonial Sectiion==*/
+.man{
+    height: 150px;
+    width: 150px;
+}
+
+
+  /* Extra Section  */
+
+  .send-button{
+      background-color: #21b573;
+      color: white;
+      border: none;
+      border-radius: 30px;
+  }
+  .contact {
+    padding: 100px 0;
+    background-color: #f0fff0;
+  }
+  
+  .contact h3 {
+    padding-bottom: 20px;
+  }
+  
+  .contact .fas {
+    width: 50px;
+    height: 50px;
+  }
+
+  /* Footer Section*/
+  
+  .footer{
+      padding: 100px 0;
+      background-color: #282531;
+      color: white;
+  }
+  .footer p{
+      font-weight: 100;
+  }
+  .footer ul li {
+      list-style: none;
+      line-height: 1.8;
+      font-weight: 100;
+  }
+  .footer h5{
+      font-weight: 200;
+  }
+
+  small{
+      color: gray;
+  }
